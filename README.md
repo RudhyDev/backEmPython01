@@ -48,3 +48,4 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 Divirta-se explorando o projeto! 🎉✨
 
+**Estou usando o padrão gitflow e conventional commits**
