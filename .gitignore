@@ -28,7 +28,6 @@ MANIFEST
 
 # Flask development server
 .env
-.env.*
 
 # SQLAlchemy migration folder
 migrations/
